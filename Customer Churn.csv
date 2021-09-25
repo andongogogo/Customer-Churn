@@ -1,4 +1,4 @@
-﻿Call  Failure,Complains,Subscription  Length,Charge  Amount,Seconds of Use,Frequency of use,Frequency of SMS,Distinct Called Numbers,Age Group,Tariff Plan,Status,Age,Customer Value,FN,FP,Churn
+﻿CallFailure,Complains,SubscriptionLength,ChargeAmount,SecondsofUse,FrequencyofUse,FrequencyofSMS,DistinctCalledNumbers,Age Group,TariffPlan,Status,Age,CustomerValue,FN,FP,Churn
 8,0,38,0,4370,71,5,17,3,1,1,30,197.64,177.876,69.764,0
 0,0,39,0,318,5,7,4,2,1,2,25,46.035,41.4315,60,0
 10,0,37,0,2453,60,359,24,3,1,1,30,1536.52,1382.868,203.652,0
